@@ -25,3 +25,6 @@ Search (Spring Boot REST API + AngularJS web app)
 
 ## Tech stack
 Python · BeautifulSoup · Java · Apache Lucene · Hadoop MapReduce · MongoDB · Spring Boot · AngularJS · JSON
+
+## Project report
+Full write-up (dataset, indexing approach, results): `ProjectReport.docx`.
